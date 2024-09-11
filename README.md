@@ -1,2 +1,3 @@
 # Git
-In class git
+
+Repository for personal projects and extra work
